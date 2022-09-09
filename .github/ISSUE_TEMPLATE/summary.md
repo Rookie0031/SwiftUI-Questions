@@ -2,7 +2,7 @@
 name: Summary
 about: summarize tech while studying
 title: ''
-labels: ''
+labels: Study
 assignees: ''
 
 ---
